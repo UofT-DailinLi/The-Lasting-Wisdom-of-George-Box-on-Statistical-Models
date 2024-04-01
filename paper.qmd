@@ -1,0 +1,38 @@
+---
+title: "Navigating the Realm of Imperfection: Understanding George Box's Perspective on Statistical Modeling"
+title-block-banner: true
+thanks: "Code and data supporting this analysis is available at: https://github.com/UofT-DailinLi/The-Lasting-Wisdom-of-George-Box-on-Statistical-Models.git"
+author: "Ben Li"
+date: today
+date-format: long
+editor: visual
+format: pdf
+bibliography: ref.bib
+---
+
+# Introduction
+
+George Box is a distinguished scientist in the field of modelling and scientific exploration of statistics. His research and contributions have guided our understanding of how models relate to the real world. Among his many theories, we are particularly struck by one of his aphorisms: “Since all models are wrong the scientist must be alert to what is importantly wrong. It is inappropriate to be concerned about mice when there are tigers abroad.”[@Box1976] This paper will discuss this argument in depth and elaborate on the implications for other research in different disciplines.
+
+# The discussion of Box's Assertion
+
+George Box's theory shows the limitations of statistical modelling in a straightforward sense. This is because the essence of modelling is to parse and understand reality through simplification. The goal is to capture the complex dynamics of the real world and make predictions about the future in a manageable and relatively simple way. However, this relative simplicity does not capture 100% of the dynamics of the real world. Therefore, in the process of interpretation and elaboration, it is inevitable to bring errors, that is, the gap between the model and the real world. At the same time, George Box used the analogy of a tiger and a mouse so that scientists and related practitioners should not focus too much on the "mouse," i.e., the small and insignificant errors, but should pay attention to the "tiger," i.e., the significant errors that can really destroy the model. the "tigers," which are the significant errors that can really destroy the model.
+
+
+By understanding George Box's aphorism, I believe that in explaining the real world, even though all models are wrong, there should always exist better, less error-prone, more accurate models. So we need to try all kinds of models to find the most suitable one, as the statisticians Peter McCullagh and John Nelder discuss: "Modelling in science remains, partly at least, an art. Some principles do exist, however, to guide the modeller. The first is that all models are wrong; some, though, are better than others, and we can search for the better ones. At the same time, we must recognize that eternal truth is not within our grasp."[@McCullagh_GeneralizedLinearModels] As they say, the workings of the world are not necessarily under our control, just as eternal truths are not within our grasp. At the same time, we must recognize that eternal truth is not within our grasp.
+
+
+At the same time, many people have different opinions about George Box's aphorism, and they think that just saying that all models are wrong doesn't make any sense. Because a model is a simplistic formula for the real world. And the idea that the complex elements of the world, physics, chemistry, and biology, can be captured in mere formulas is absurd. So there's no point in discussing whether it's right or wrong. There is no substantive difference between statistical models and other types of models; they are not truths; as David Cox says: "It does not seem helpful just to say that all models are wrong. The very word model implies simplification and idealization. The idea that complex physical, biological or sociological systems can be exactly described by a few formulae is patently absurd. The construction of idealized representations that capture important stable aspects of such systems is, however, a vital part of general scientific analysis and statistical models, especially substantive ones, do not seem essentially different from other kinds of models. "[@7efe791a-72df-346f-a5e4-d670b79ea121]
+
+
+
+# Practical Applications and Examples
+
+In reality, there are many practical applications of models; for example, in climate science, models play a crucial role in predicting future weather changes; compared to the previous, the construction of the model significantly improves the accuracy of the prediction. In the field of economics, for example, the use of models is also very widespread; predicting economic growth, market trends and other financial models are now an indispensable tool for economists to analyze, but also, economists should pay attention to which factors are essential factors such as interest rates, employment rates, etc., and which are not, so as to obtain a more accurate prediction.
+
+# Conclusion
+
+So, we learn from this aphorism that models must be pragmatic and that we, as users, must learn to distinguish between important and trivial. At the same time, this aphorism informs us that models are not the truth; no model is 100% correct, only better and more accurate, just as there will never be a model that can predict which side of the coin will punch up after the next flip.
+
+\newpage
+# Reference
